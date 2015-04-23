@@ -1,0 +1,39 @@
+Software Engineering Meeting 4/16/15, 8:45PM
+---------------------------------------------
+Agenda
+ - Test out VRONE
+ - Add team to Github
+	- https://github.com/sthdsnts/SoftwareEngineering
+ - General project approach
+	- Simple!! 
+		- Think standing stationary looking 360 degrees
+	- Ground
+	- Trees & Water ( Think lakes/parks ) 
+	- Particles [ Sparkles, etc..]
+	- Music 
+	
+ - Roadmap 
+	- 4/20/15
+		- Camera (VRONE SDK) 
+		- Environment 
+			- Water 
+			- Trees
+			- Ground
+	
+	- 4/21/15
+		- Floating Particles
+		
+	- 4/23/15
+		- Music
+
+		
+ - Workflow
+ Camera/VRONE: Mohammad Khalid Alsohaibany
+ Environment: Adam Sherman & Rio Velarde
+ Music/Particles: Seth DeSantis
+	
+Tutorials 
+Environment: https://www.youtube.com/watch?v=Z_rDAl_wzFQ
+			 https://www.youtube.com/watch?v=Ra3ug5NWZq8
+VRONE SDK:
+			 https://bitbucket.org/vrone/unity3d
