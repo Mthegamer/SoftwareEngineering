@@ -114,11 +114,11 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 8d68e56e17fbce94d823acd8b682a9fb, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: .819999993
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
-  Priority: 128
+  Priority: 92
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -556,7 +556,7 @@ MonoBehaviour:
   Voxel: {fileID: 1467962087}
   SizeX: 50
   SizeZ: 50
-  SizeY: 3
+  SizeY: 1
 --- !u!4 &623421238
 Transform:
   m_ObjectHideFlags: 0
