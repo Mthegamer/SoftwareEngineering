@@ -57,7 +57,7 @@ public class WorldGenerator : MonoBehaviour
 
 		for(int x = 1; x <= SizeX; x++)
 		{
-			for(int z = 1; z<= SizeZ; z++)
+			for(int z = (int) -SizeZ/2; z<= SizeZ; z++)
 			{
 				// Compute a random height
 				float height = Random.Range(0, SizeY);
